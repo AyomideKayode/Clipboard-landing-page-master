@@ -79,6 +79,10 @@ header {
  border-radius: 100vw;
 }
 
+.btn:hover {
+    opacity: 0.9;
+}
+
 .btn-ios {
  background-color: var(--Strong-Cyan);
  box-shadow: 7px 6px 17px -1px var(--Strong-Cyan);
